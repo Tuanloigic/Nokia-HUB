@@ -1,34 +1,88 @@
-bG9jYWwgdD1wcmludApsb2NhbCBlPWdhbWU6R2V0U2VydmljZQpsb2NhbCBvPWUoIkNvcmVHdWki
-KQpsb2NhbCBhPSJXaWNodFNhbmJlIgppZiBvOkZpbmRGaXJzdENoaWxkKGEpdGhlbiBvW2FdOkRl
-c3Ryb3koKWVuZApsb2NhbCBuPUluc3RhbmNlLm5ldwpsb2NhbCBzPW4oIlNjcmVlbkd1aSIpCnMu
-TmFtZT1hCnMuUmVzZXRPblNwYXduPWZhbHNlCnMuUGFyZW50PW8KbG9jYWwgYz00MApsb2NhbCBt
-PW4oIkZyYW1lIikKbS5TaXplPVVEaW0yLm5ldygwLDEyKmMsMCw4KmMpCm0uUG9zaXRpb249VURp
-bTIubmV3KDAuNSwtNipjLDAuNSwtNCpjKQptLkJhY2tncm91bmRDb2xvcjM9Q29sb3IzLm5ldygw
-LDAsMCkKbS5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5PTEKbS5WaXNpYmxlPXRydWUKbS5BY3RpdmU9
-dHJ1ZQptLkRyYWdnYWJsZT10cnVlCm0uUGFyZW50PXMKbG9jYWwgcj1uKCJGcmFtZSIpCnIuU2l6
-ZT1VRGltMi5uZXcoMCwxMipjLDAsMSpjKQpyLlBvc2l0aW9uPVVEaW0yLm5ldygwLDAsMCwwKQpy
-LkJhY2tncm91bmRDb2xvcjM9Q29sb3IzLm5ldygwLDAsMCkKci5CYWNrZ3JvdW5kVHJhbnNwYXJl
-bmN5PTAuNQpyLlBhcmVudD1tCmxvY2FsIGw9bigiVGV4dExhYmVsIikKbC5TaXplPVVEaW0yLm5l
-dygwLjUsMCwxLDApCmwuUG9zaXRpb249VURpbTIubmV3KDAsNSwwLDApCmwuVGV4dD0iV2ljaHRT
-YW5iZS1IVUIgdHJ1ZSB2MyBieSBUdWFubmVfIgpsLlRleHRDb2xvcjM9Q29sb3IzLm5ldygxLDEs
-MSkKbC5UZXh0WEFsaWdubWVudD1FbnVtLlRleHRYQWxpZ25tZW50LkxlZnQKbC5CYWNrZ3JvdW5k
-VHJhbnNwYXJlbmN5PTEKbC5Gb250PUVudW0uRm9udC5Db2RlCmwuVGV4dFNpemU9MTYKbC5QYXJl
-bnQ9cgpsb2NhbCBpPW4oIlRleHRMYWJlbCIpCmkuU2l6ZT1VRGltMi5uZXcoMC41LC0xMCwxLDAp
-CmkuUG9zaXRpb249VURpbTIubmV3KDAuNSw1LDAsMCkKaS5UZXh0PSJbUHJlbWl1bV0iCmkuVGV4
-dENvbG9yMz1Db2xvcjMubmV3KDEsMSwxKQppLlRleHRYQWxpZ25tZW50PUVudW0uVGV4dFhBbGln
-bm1lbnQuUmlnaHQKaS5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5PTEKaS5Gb250PUVudW0uRm9udC5D
-b2RlCmkuVGV4dFNpemU9MTYKaS5QYXJlbnQ9cgpsb2NhbCBkPW4oIkZyYW1lIikKZC5TaXplPVVE
-aW0yLm5ldygwLDEyKmMsMCw3KmMpCmQuUG9zaXRpb249VURpbTIubmV3KDAsMCwwLDEqYykKZC5C
-YWNrZ3JvdW5kQ29sb3IzPUNvbG9yMy5uZXcoMCwwLDApCmQuQmFja2dyb3VuZFRyYW5zcGFyZW5j
-eT0wLjcKZC5QYXJlbnQ9bQpsb2NhbCB1PW4oIkZyYW1lIikKdS5TaXplPVVEaW0yLm5ldygwLDMq
-YywwLDcqYykKdS5Qb3NpdGlvbj1VRGltMi5uZXcoMCwwLDAsMCkKdS5CYWNrZ3JvdW5kQ29sb3Iz
-PUNvbG9yMy5uZXcoMCwwLDApCnUuQmFja2dyb3VuZFRyYW5zcGFyZW5jeT0wLjcKdS5QYXJlbnQ9
-ZApsb2NhbCBwPW4oIkZyYW1lIikKcC5TaXplPVVEaW0yLm5ldygwLDkqYywwLDcqYykKcC5Qb3Np
-dGlvbj1VRGltMi5uZXcoMCwzKmMsMCwwKQpwLkJhY2tncm91bmRDb2xvcjM9Q29sb3IzLm5ldygw
-LDAsMCkKcC5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5PTAuNwpwLlBhcmVudD1kCmxvY2FsIGY9bigi
-VGV4dEJ1dHRvbiIpCmYuU2l6ZT1VRGltMi5uZXcoMCwxKmMsMCwxKmMpCmYuUG9zaXRpb249VURp
-bTIubmV3KDAsMjAsMCw2MCkKZi5UZXh0PSItIgpmLkJhY2tncm91bmRDb2xvcjM9Q29sb3IzLm5l
-dygxLDEsMSkKZi5UZXh0Q29sb3IzPUNvbG9yMy5uZXcoMCwwLDApCmYuRm9udD1FbnVtLkZvbnQu
-U291cmNlU2FucwpmLlRleHRTaXplPTMwCmYuUGFyZW50PXMKbG9jYWwgdj10cnVlCmYuTW91c2VC
-dXR0b24xQ2xpY2s6Q29ubmVjdChmdW5jdGlvbigpCiB2PW5vdCB2CiBtLlZpc2libGU9dgogZi5U
-ZXh0PXYgYW5kIi0ib3IiKyIKZW5kKQp0KCJXZWxjb21lIHRvIFdpY2h0U2FuYmUtSFVCIik=
+print("Welcome to WichtSanbe-HUB")
+if game:GetService("CoreGui"):FindFirstChild("WichtSanbe") then
+	game:GetService("CoreGui").WichtSanbe:Destroy()
+end
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "WichtSanbe"
+gui.ResetOnSpawn = false
+gui.Parent = game:GetService("CoreGui")
+
+local cm = 40
+
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 12 * cm, 0, 8 * cm)
+mainFrame.Position = UDim2.new(0.5, -(6 * cm), 0.5, -(4 * cm))
+mainFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+mainFrame.BackgroundTransparency = 1
+mainFrame.Visible = true
+mainFrame.Active = true
+mainFrame.Draggable = true
+mainFrame.Parent = gui
+
+local topFrame = Instance.new("Frame")
+topFrame.Size = UDim2.new(0, 12 * cm, 0, 1 * cm)
+topFrame.Position = UDim2.new(0, 0, 0, 0)
+topFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+topFrame.BackgroundTransparency = 0.5
+topFrame.Parent = mainFrame
+
+local leftLabel = Instance.new("TextLabel")
+leftLabel.Size = UDim2.new(0.5, 0, 1, 0)
+leftLabel.Position = UDim2.new(0, 5, 0, 0)
+leftLabel.Text = "WichtSanbe-HUB true v3 by Tuanne_"
+leftLabel.TextColor3 = Color3.new(1, 1, 1)
+leftLabel.TextXAlignment = Enum.TextXAlignment.Left
+leftLabel.BackgroundTransparency = 1
+leftLabel.Font = Enum.Font.Code
+leftLabel.TextSize = 16
+leftLabel.Parent = topFrame
+
+local rightLabel = Instance.new("TextLabel")
+rightLabel.Size = UDim2.new(0.5, -10, 1, 0)
+rightLabel.Position = UDim2.new(0.5, 5, 0, 0)
+rightLabel.Text = "[Premium]"
+rightLabel.TextColor3 = Color3.new(1, 1, 1)
+rightLabel.TextXAlignment = Enum.TextXAlignment.Right
+rightLabel.BackgroundTransparency = 1
+rightLabel.Font = Enum.Font.Code
+rightLabel.TextSize = 16
+rightLabel.Parent = topFrame
+
+local bottomFrame = Instance.new("Frame")
+bottomFrame.Size = UDim2.new(0, 12 * cm, 0, 7 * cm)
+bottomFrame.Position = UDim2.new(0, 0, 0, 1 * cm)
+bottomFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+bottomFrame.BackgroundTransparency = 0.7
+bottomFrame.Parent = mainFrame
+
+local columnA = Instance.new("Frame")
+columnA.Size = UDim2.new(0, 3 * cm, 0, 7 * cm)
+columnA.Position = UDim2.new(0, 0, 0, 0)
+columnA.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+columnA.BackgroundTransparency = 0.7
+columnA.Parent = bottomFrame
+
+local columnB = Instance.new("Frame")
+columnB.Size = UDim2.new(0, 9 * cm, 0, 7 * cm)
+columnB.Position = UDim2.new(0, 3 * cm, 0, 0)
+columnB.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+columnB.BackgroundTransparency = 0.7
+columnB.Parent = bottomFrame
+
+local toggleBtn = Instance.new("TextButton")
+toggleBtn.Size = UDim2.new(0, 1 * cm, 0, 1 * cm)
+toggleBtn.Position = UDim2.new(0, 20, 0, 60)
+toggleBtn.Text = "-"
+toggleBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+toggleBtn.TextColor3 = Color3.new(0, 0, 0)
+toggleBtn.Font = Enum.Font.SourceSans
+toggleBtn.TextSize = 30
+toggleBtn.Parent = gui
+
+local visible = true
+toggleBtn.MouseButton1Click:Connect(function()
+	visible = not visible
+	mainFrame.Visible = visible
+	toggleBtn.Text = visible and "-" or "+"
+end)
